@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m Ahmed! #
 #### - 👀 I’m interested in ... Javascript & Exploring new technologies and developing software solutions and quick hacks.
-#### - 🌱 I’m currently learning ... Full-stack Web Development Using Javascript (MERN Stack - MEAN Stack)
-#### - 💞️ I’m looking to collaborate on ...
+#### - 🌱 I’m currently learning ... Full-stack Web Development Using Javascript (MERN Stack)
+#### - 💞️ I’m looking to collaborate on web projects
 #### - 📫 How to reach me ... https://www.linkedin.com/in/ahmed-maged-b74634230/
 
 #### - :coffee: More Coffe = Less Stress !!
