@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Software+Developer;MEARN+Stack+Developer)](https://github.com/ziadeleraky/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer)](https://git.io/typing-svg)
 
 </div>
   
