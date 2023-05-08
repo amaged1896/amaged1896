@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer)](https://git.io/typing-svg)
 
 </div>
   
@@ -53,32 +53,6 @@ You can click the Preview link to take a look at your changes.
  </div>
 
 <br>
-
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-<details>
-  <summary>📊 <b>Github Stats</b></summary>
- <br />
- <div align="center">
-  <a href="https://github.com/amaged1896">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=amanged1896&show_icons=true&theme=radical&count_private=true">
-  </a>
- </div>
-</details>
-
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
-  
- <br />
-  
- <div align="center">
-  <a href="https://github.com/ziadeleraky">
-   <img align="center" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=amaged1896&column=8&theme=darkhub"/>
-  </a>
- </div>
-</details>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
