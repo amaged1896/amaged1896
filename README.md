@@ -37,13 +37,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
   <br>
-
-<div align="center">
-  <a href="https://github.com/amaged1896">
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amaged1896&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  </a>
-</div>
-
 <br>
 
  <div align="center">
