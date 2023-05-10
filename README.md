@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 # - 👋 Hi, I’m Ahmed! #
-#### - 👀 I’m interested in ... Javascript & Exploring new technologies and developing software solutions and quick hacks.
-#### - 🌱 I’m currently learning ... Full-stack Web Development Using Javascript (MERN Stack)
+#### - 👀 I’m interested in Javascript & Exploring new technologies and developing software solutions and quick hacks.
+#### - 🌱 I’m currently learning Full-stack Web Development Using Javascript (MERN Stack)
 #### - 💞️ I’m looking to collaborate on web projects
-#### - 📫 How to reach me ... https://www.linkedin.com/in/ahmed-maged-b74634230/
+#### - 📫 How to reach me https://www.linkedin.com/in/ahmed-maged-dev/
 
 #### - :coffee: More Coffe = Less Stress !!
 
