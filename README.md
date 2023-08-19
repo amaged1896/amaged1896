@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Maged</h1>
-
+<br>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer)](https://git.io/typing-svg)
@@ -17,23 +17,22 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeleraky&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeleraky" /> </p>
-
 <br>
+</div>
 
-# - 👋 Hi, I’m Ahmed! #
 #### - 👀 I’m interested in Javascript & Exploring new technologies and developing software solutions and quick hacks.
 #### - 🌱 I’m currently learning Full-stack Web Development Using Javascript (MERN Stack)
 #### - 💞️ I’m looking to collaborate on web projects
 #### - 📫 How to reach me https://www.linkedin.com/in/ahmed-maged-dev/
 
 #### - :coffee: More Coffe = Less Stress !!
+<br>
 
-<br>
-<br>
-<br>
-</div>
+
   
-<img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+<div align="center">
+  <img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+</div>
 
 <br>
 <br>
