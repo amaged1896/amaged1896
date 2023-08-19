@@ -14,11 +14,7 @@ You can click the Preview link to take a look at your changes.
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;React+Developer;Node.js+Developer)](https://git.io/typing-svg)
 
-</div>
-  
-<img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeleraky&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeleraky" /> </p>
 
@@ -35,8 +31,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <br>
+</div>
+  
+<img align="right" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
-  <br>
+<br>
+<br>
 <br>
 
  <div align="center">
@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
   </a>
  </div>
 
+<br>
 <br>
 <br>
 
